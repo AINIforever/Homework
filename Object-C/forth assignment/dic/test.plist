@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Abbreviation</key>
+		<string>AL</string>
+		<key>Became a State</key>
+		<string>"December 14 1819"</string>
+		<key>Capital</key>
+		<string>Montgomery</string>
+		<key>Sl no.</key>
+		<string>1</string>
+		<key>State Name</key>
+		<string>Alabama</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>AK</string>
+		<key>Became a State</key>
+		<string>3-Jan-59</string>
+		<key>Capital</key>
+		<string>Juneau</string>
+		<key>Sl no.</key>
+		<string>2</string>
+		<key>State Name</key>
+		<string>Alaska</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>AZ</string>
+		<key>Became a State</key>
+		<string>14-Feb-12</string>
+		<key>Capital</key>
+		<string>Phoenix</string>
+		<key>Sl no.</key>
+		<string>3</string>
+		<key>State Name</key>
+		<string>Arizona</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>AR</string>
+		<key>Became a State</key>
+		<string>"June 15 1836"</string>
+		<key>Capital</key>
+		<string>Little Rock</string>
+		<key>Sl no.</key>
+		<string>4</string>
+		<key>State Name</key>
+		<string>Arkansas</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>CA</string>
+		<key>Became a State</key>
+		<string>"September 9 1850"</string>
+		<key>Capital</key>
+		<string>Sacramento</string>
+		<key>Sl no.</key>
+		<string>5</string>
+		<key>State Name</key>
+		<string>California</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>CO</string>
+		<key>Became a State</key>
+		<string>"August 1 1876"</string>
+		<key>Capital</key>
+		<string>Denver</string>
+		<key>Sl no.</key>
+		<string>6</string>
+		<key>State Name</key>
+		<string>Colorado</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>CT</string>
+		<key>Became a State</key>
+		<string>"January 9 1788"</string>
+		<key>Capital</key>
+		<string>Hartford</string>
+		<key>Sl no.</key>
+		<string>7</string>
+		<key>State Name</key>
+		<string>Connecticut</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>DE</string>
+		<key>Became a State</key>
+		<string>"December 7 1787"</string>
+		<key>Capital</key>
+		<string>Dover</string>
+		<key>Sl no.</key>
+		<string>8</string>
+		<key>State Name</key>
+		<string>Delaware</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FL</string>
+		<key>Became a State</key>
+		<string>"March 3 1845"</string>
+		<key>Capital</key>
+		<string>Tallahassee</string>
+		<key>Sl no.</key>
+		<string>9</string>
+		<key>State Name</key>
+		<string>Florida</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>GA</string>
+		<key>Became a State</key>
+		<string>"January 2 1788"</string>
+		<key>Capital</key>
+		<string>Atlanta</string>
+		<key>Sl no.</key>
+		<string>10</string>
+		<key>State Name</key>
+		<string>Georgia</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>HI</string>
+		<key>Became a State</key>
+		<string>21-Aug-59</string>
+		<key>Capital</key>
+		<string>Honolulu</string>
+		<key>Sl no.</key>
+		<string>11</string>
+		<key>State Name</key>
+		<string>Hawaii</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>ID</string>
+		<key>Became a State</key>
+		<string>"July 3 1890"</string>
+		<key>Capital</key>
+		<string>Boise</string>
+		<key>Sl no.</key>
+		<string>12</string>
+		<key>State Name</key>
+		<string>Idaho</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>IL</string>
+		<key>Became a State</key>
+		<string>"December 3 1818"</string>
+		<key>Capital</key>
+		<string>Springfield</string>
+		<key>Sl no.</key>
+		<string>13</string>
+		<key>State Name</key>
+		<string>Illinois</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>IN</string>
+		<key>Became a State</key>
+		<string>"December 11 1816"</string>
+		<key>Capital</key>
+		<string>Indianapolis</string>
+		<key>Sl no.</key>
+		<string>14</string>
+		<key>State Name</key>
+		<string>Indiana</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>IA</string>
+		<key>Became a State</key>
+		<string>"December 28 1846"</string>
+		<key>Capital</key>
+		<string>Des Moines</string>
+		<key>Sl no.</key>
+		<string>15</string>
+		<key>State Name</key>
+		<string>Iowa</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>KS</string>
+		<key>Became a State</key>
+		<string>"January 29 1861"</string>
+		<key>Capital</key>
+		<string>Topeka</string>
+		<key>Sl no.</key>
+		<string>16</string>
+		<key>State Name</key>
+		<string>Kansas</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>KY</string>
+		<key>Became a State</key>
+		<string>"June 1 1792"</string>
+		<key>Capital</key>
+		<string>Frankfort</string>
+		<key>Sl no.</key>
+		<string>17</string>
+		<key>State Name</key>
+		<string>Kentucky</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>LA</string>
+		<key>Became a State</key>
+		<string>"April 30 1812"</string>
+		<key>Capital</key>
+		<string>Baton Rouge</string>
+		<key>Sl no.</key>
+		<string>18</string>
+		<key>State Name</key>
+		<string>Louisiana</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>ME</string>
+		<key>Became a State</key>
+		<string>"March 15 1820"</string>
+		<key>Capital</key>
+		<string>Augusta</string>
+		<key>Sl no.</key>
+		<string>19</string>
+		<key>State Name</key>
+		<string>Maine</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>MD</string>
+		<key>Became a State</key>
+		<string>"April 28 1788"</string>
+		<key>Capital</key>
+		<string>Annapolis</string>
+		<key>Sl no.</key>
+		<string>20</string>
+		<key>State Name</key>
+		<string>Maryland</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>MA</string>
+		<key>Became a State</key>
+		<string>"February 6 1788"</string>
+		<key>Capital</key>
+		<string>Boston</string>
+		<key>Sl no.</key>
+		<string>21</string>
+		<key>State Name</key>
+		<string>Massachusetts</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>MI</string>
+		<key>Became a State</key>
+		<string>"January 26 1837"</string>
+		<key>Capital</key>
+		<string>Lansing</string>
+		<key>Sl no.</key>
+		<string>22</string>
+		<key>State Name</key>
+		<string>Michigan</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>MN</string>
+		<key>Became a State</key>
+		<string>"May 11 1858"</string>
+		<key>Capital</key>
+		<string>Saint Paul</string>
+		<key>Sl no.</key>
+		<string>23</string>
+		<key>State Name</key>
+		<string>Minnesota</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>MS</string>
+		<key>Became a State</key>
+		<string>"December 10 1817"</string>
+		<key>Capital</key>
+		<string>Jackson</string>
+		<key>Sl no.</key>
+		<string>24</string>
+		<key>State Name</key>
+		<string>Mississippi</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>MO</string>
+		<key>Became a State</key>
+		<string>"August 10 1821"</string>
+		<key>Capital</key>
+		<string>Jefferson City</string>
+		<key>Sl no.</key>
+		<string>25</string>
+		<key>State Name</key>
+		<string>Missouri</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>MT</string>
+		<key>Became a State</key>
+		<string>"November 8 1889"</string>
+		<key>Capital</key>
+		<string>Helena</string>
+		<key>Sl no.</key>
+		<string>26</string>
+		<key>State Name</key>
+		<string>Montana</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>NE</string>
+		<key>Became a State</key>
+		<string>"March 1 1867"</string>
+		<key>Capital</key>
+		<string>Lincoln</string>
+		<key>Sl no.</key>
+		<string>27</string>
+		<key>State Name</key>
+		<string>Nebraska</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>NV</string>
+		<key>Became a State</key>
+		<string>"October 31 1864"</string>
+		<key>Capital</key>
+		<string>Carson City</string>
+		<key>Sl no.</key>
+		<string>28</string>
+		<key>State Name</key>
+		<string>Nevada</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>NH</string>
+		<key>Became a State</key>
+		<string>"June 21 1788"</string>
+		<key>Capital</key>
+		<string>Concord</string>
+		<key>Sl no.</key>
+		<string>29</string>
+		<key>State Name</key>
+		<string>New Hampshire</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>NJ</string>
+		<key>Became a State</key>
+		<string>"December 18 1787"</string>
+		<key>Capital</key>
+		<string>Trenton</string>
+		<key>Sl no.</key>
+		<string>30</string>
+		<key>State Name</key>
+		<string>New Jersey</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>NM</string>
+		<key>Became a State</key>
+		<string>6-Jan-12</string>
+		<key>Capital</key>
+		<string>Santa Fe</string>
+		<key>Sl no.</key>
+		<string>31</string>
+		<key>State Name</key>
+		<string>New Mexico</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>NY</string>
+		<key>Became a State</key>
+		<string>"July 26 1788"</string>
+		<key>Capital</key>
+		<string>Albany</string>
+		<key>Sl no.</key>
+		<string>32</string>
+		<key>State Name</key>
+		<string>New York</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>NC</string>
+		<key>Became a State</key>
+		<string>"November 21 1789"</string>
+		<key>Capital</key>
+		<string>Raleigh</string>
+		<key>Sl no.</key>
+		<string>33</string>
+		<key>State Name</key>
+		<string>North Carolina</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>ND</string>
+		<key>Became a State</key>
+		<string>"November 2 1889"</string>
+		<key>Capital</key>
+		<string>Bismarck</string>
+		<key>Sl no.</key>
+		<string>34</string>
+		<key>State Name</key>
+		<string>North Dakota</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>OH</string>
+		<key>Became a State</key>
+		<string>"March 1 1803"</string>
+		<key>Capital</key>
+		<string>Columbus</string>
+		<key>Sl no.</key>
+		<string>35</string>
+		<key>State Name</key>
+		<string>Ohio</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>OK</string>
+		<key>Became a State</key>
+		<string>16-Nov-07</string>
+		<key>Capital</key>
+		<string>Oklahoma City</string>
+		<key>Sl no.</key>
+		<string>36</string>
+		<key>State Name</key>
+		<string>Oklahoma</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>OR</string>
+		<key>Became a State</key>
+		<string>"February 14 1859"</string>
+		<key>Capital</key>
+		<string>Salem</string>
+		<key>Sl no.</key>
+		<string>37</string>
+		<key>State Name</key>
+		<string>Oregon</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>PA</string>
+		<key>Became a State</key>
+		<string>"December 12 1787"</string>
+		<key>Capital</key>
+		<string>Harrisburg</string>
+		<key>Sl no.</key>
+		<string>38</string>
+		<key>State Name</key>
+		<string>Pennsylvania</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>RI</string>
+		<key>Became a State</key>
+		<string>"May 19 1790"</string>
+		<key>Capital</key>
+		<string>Providence</string>
+		<key>Sl no.</key>
+		<string>39</string>
+		<key>State Name</key>
+		<string>Rhode Island</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SC</string>
+		<key>Became a State</key>
+		<string>"May 23 1788"</string>
+		<key>Capital</key>
+		<string>Columbia</string>
+		<key>Sl no.</key>
+		<string>40</string>
+		<key>State Name</key>
+		<string>South Carolina</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SD</string>
+		<key>Became a State</key>
+		<string>"November 2 1889"</string>
+		<key>Capital</key>
+		<string>Pierre</string>
+		<key>Sl no.</key>
+		<string>41</string>
+		<key>State Name</key>
+		<string>South Dakota</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>TN</string>
+		<key>Became a State</key>
+		<string>"June 1 1796"</string>
+		<key>Capital</key>
+		<string>Nashville</string>
+		<key>Sl no.</key>
+		<string>42</string>
+		<key>State Name</key>
+		<string>Tennessee</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>TX</string>
+		<key>Became a State</key>
+		<string>"December 29 1845"</string>
+		<key>Capital</key>
+		<string>Austin</string>
+		<key>Sl no.</key>
+		<string>43</string>
+		<key>State Name</key>
+		<string>Texas</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>UT</string>
+		<key>Became a State</key>
+		<string>"January 4 1896"</string>
+		<key>Capital</key>
+		<string>Salt Lake City</string>
+		<key>Sl no.</key>
+		<string>44</string>
+		<key>State Name</key>
+		<string>Utah</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>VT</string>
+		<key>Became a State</key>
+		<string>"March 4 1791"</string>
+		<key>Capital</key>
+		<string>Montpelier</string>
+		<key>Sl no.</key>
+		<string>45</string>
+		<key>State Name</key>
+		<string>Vermont</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>VA</string>
+		<key>Became a State</key>
+		<string>"June 25 1788"</string>
+		<key>Capital</key>
+		<string>Richmond</string>
+		<key>Sl no.</key>
+		<string>46</string>
+		<key>State Name</key>
+		<string>Virginia</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>WA</string>
+		<key>Became a State</key>
+		<string>"November 11 1889"</string>
+		<key>Capital</key>
+		<string>Olympia</string>
+		<key>Sl no.</key>
+		<string>47</string>
+		<key>State Name</key>
+		<string>Washington</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>WV</string>
+		<key>Became a State</key>
+		<string>"June 20 1863"</string>
+		<key>Capital</key>
+		<string>Charleston</string>
+		<key>Sl no.</key>
+		<string>48</string>
+		<key>State Name</key>
+		<string>West Virginia</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>WI</string>
+		<key>Became a State</key>
+		<string>"May 29 1848"</string>
+		<key>Capital</key>
+		<string>Madison</string>
+		<key>Sl no.</key>
+		<string>49</string>
+		<key>State Name</key>
+		<string>Wisconsin</string>
+	</dict>
+	<dict>
+		<key>Abbreviation</key>
+		<string>WY</string>
+		<key>Became a State</key>
+		<string>"July 10 1890"</string>
+		<key>Capital</key>
+		<string>Cheyenne</string>
+		<key>Sl no.</key>
+		<string>50</string>
+		<key>State Name</key>
+		<string>Wyoming</string>
+	</dict>
+</array>
+</plist>
