@@ -1,0 +1,13 @@
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\bin\Debug\Paint.exe.config
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\bin\Debug\Paint.exe
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\bin\Debug\Paint.pdb
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\bin\Debug\Paint.xml
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\obj\Debug\Paint.vbprojResolveAssemblyReference.cache
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\obj\Debug\Paint.Form1.resources
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\obj\Debug\Paint.Resources.resources
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\obj\Debug\Paint.vbproj.GenerateResource.Cache
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\obj\Debug\Paint.vbproj.CoreCompileInputs.cache
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\obj\Debug\Paint.exe
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\obj\Debug\Paint.xml
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\obj\Debug\Paint.pdb
+E:\Woo\Homework\人机交互\Paint\Paint\Paint\obj\Debug\Paint.OptionForm.resources

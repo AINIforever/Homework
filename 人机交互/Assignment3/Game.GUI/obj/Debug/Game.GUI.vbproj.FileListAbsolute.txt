@@ -1,0 +1,16 @@
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\obj\Debug\Game.GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\obj\Debug\Game.GUI.Form1.resources
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\obj\Debug\Game.GUI.Resources.resources
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\obj\Debug\Game.GUI.vbproj.GenerateResource.Cache
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\obj\Debug\Game.GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\bin\Debug\Game.GUI.exe.config
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\bin\Debug\Game.GUI.exe
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\bin\Debug\Game.GUI.pdb
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\bin\Debug\Game.GUI.xml
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\bin\Debug\ClassLibrary1.dll
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\bin\Debug\ClassLibrary1.xml
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\obj\Debug\Game.GUI.exe
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\obj\Debug\Game.GUI.xml
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\obj\Debug\Game.GUI.pdb
+C:\Users\Aini\Desktop\ClassLibrary1\Game.GUI\obj\Debug\Game.GUI.EventLog.resources
